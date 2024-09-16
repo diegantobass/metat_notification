@@ -1,7 +1,7 @@
 function sendFormByEmail(e)
 {
   // Recipient emails of the notification
-  var email = "diego.antolinosbasso@sciencespo.fr, benjamin.ooghe@sciencespo.fr, audrey.baneyx@sciencespo.fr, metat-scpolst@sciencespo.fr";
+  var email = "dot@dotat.at";
 
   // Shenanigans
   var s = SpreadsheetApp.getActiveSheet();
